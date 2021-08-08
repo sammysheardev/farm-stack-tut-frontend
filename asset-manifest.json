@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/farm-stack-tut-frontend/static/css/main.ce78d138.chunk.css",
+    "main.js": "/farm-stack-tut-frontend/static/js/main.cc796730.chunk.js",
+    "main.js.map": "/farm-stack-tut-frontend/static/js/main.cc796730.chunk.js.map",
+    "runtime-main.js": "/farm-stack-tut-frontend/static/js/runtime-main.7687fe11.js",
+    "runtime-main.js.map": "/farm-stack-tut-frontend/static/js/runtime-main.7687fe11.js.map",
+    "static/js/2.0c8ae8bf.chunk.js": "/farm-stack-tut-frontend/static/js/2.0c8ae8bf.chunk.js",
+    "static/js/2.0c8ae8bf.chunk.js.map": "/farm-stack-tut-frontend/static/js/2.0c8ae8bf.chunk.js.map",
+    "index.html": "/farm-stack-tut-frontend/index.html",
+    "static/css/main.ce78d138.chunk.css.map": "/farm-stack-tut-frontend/static/css/main.ce78d138.chunk.css.map",
+    "static/js/2.0c8ae8bf.chunk.js.LICENSE.txt": "/farm-stack-tut-frontend/static/js/2.0c8ae8bf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7687fe11.js",
+    "static/js/2.0c8ae8bf.chunk.js",
+    "static/css/main.ce78d138.chunk.css",
+    "static/js/main.cc796730.chunk.js"
+  ]
+}
