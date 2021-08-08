@@ -1,0 +1,44 @@
+$primary: #146286;
+$secondary: #641486;
+$accent: #3066b8;
+
+.app-header {
+    background-color: $primary;
+    color: white;
+    padding: 5px;
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
+
+.content {
+    .todo-list-container {
+        display: grid;
+        grid-template-columns: repeat(5, 1fr);
+        grid-template-rows: repeat(5, 1fr);
+        grid-gap: 10px;
+
+        .todo-container {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-evenly;
+
+            border-radius: 6px;
+            padding: 10px 6px;
+            background-color: $secondary;
+            color: white;
+
+            h1 {
+                font-size: 20px;
+            }
+
+            span {
+                font-size: 14px;
+            }
+
+            footer {
+                display: flex;
+                flex-direction: row-reverse;
+            }
+        }
+    }
+}
